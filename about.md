@@ -11,6 +11,10 @@ publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 partners:
 - "/uploads/2017/11/13/stem.png"
+services:
+- heading: asdf
+  description: asdf
+  icon: ''
 menu:
   footer:
     identifier: _about
